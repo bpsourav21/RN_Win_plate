@@ -1,0 +1,3 @@
+rootProject.name = 'RN_Win_plate'
+
+include ':app'
